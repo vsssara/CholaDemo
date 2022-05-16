@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chola Demo</string>
+
+    <string-array name="Animals">
+        <item>Select Animal!!</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Elephant</item>
+        <item>Zebra</item>
+        <item>Giraffe</item>
+        <item>Deer</item>
+    </string-array>
+
+
+</resources>
